@@ -1,5 +1,15 @@
 ## Hi there 👋 
 
+Mohawk College Network Administration and Security Student 
+  
+  When not working on school work, I like to:
+      • Garden
+      • Play Piano
+      • Read
+      • Sketch/Draw      
+      
+      
+      
 <!--
 **Ethan-Lacey/Ethan-Lacey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
