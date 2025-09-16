@@ -2,11 +2,11 @@
 
 Mohawk College Network Administration and Security Student 
   
-  When not working on school work, I like to:
-      • Garden
-      • Play Piano
-      • Read
-      • Sketch/Draw      
+  When not working on school work, I like to: \n
+      • Garden \n
+      • Play Piano \n
+      • Read \n
+      • Sketch/Draw \n     
       
       
       
